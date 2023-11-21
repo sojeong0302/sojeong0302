@@ -44,8 +44,8 @@
 
 ✨Algorithm✨
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302)
+<a href="https://solved.ac/profile/uyio0302">[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302)</a>
 
 </div>
   
