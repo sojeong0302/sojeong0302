@@ -1,5 +1,6 @@
 ### 안녕하세요 🙂
 ### 프론트엔드 공부중 입니다.
+### 공부 기록 📝
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
