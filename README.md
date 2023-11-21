@@ -8,8 +8,6 @@
 
 </br>
 
-</br>
-
 ✨Recode✨
 
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
@@ -18,7 +16,6 @@
     
 <div direction="row">
   
-</br>
 
 </br>
 
@@ -40,8 +37,6 @@
 
 </br>
 
-</br>
-
 ✨Algorithm✨
 
 <a href="https://solved.ac/profile/uyio0302">[![Solved.ac
@@ -50,8 +45,6 @@
 </div>
   
 <div direction="row">
-
-</br>
 
 </br>
 
