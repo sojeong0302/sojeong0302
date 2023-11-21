@@ -10,7 +10,6 @@
   
   <div direction="row">
     ✨Recode✨
-    
     </br>
     
     <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
@@ -31,7 +30,6 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
-  
   </br>
   
   <div direction="row">
