@@ -10,8 +10,6 @@
   
   <div direction="row">
     ✨Recode✨
-    </br>
-    
     <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
     
   </div>
