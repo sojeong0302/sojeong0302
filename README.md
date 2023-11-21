@@ -29,10 +29,10 @@
 </br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/sojeong0302})](https://solved.ac/{https://github.com/sojeong0302})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=https://github.com/sojeong0302)](https://solved.ac/https://github.com/sojeong0302)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={https://github.com/sojeong0302})](https://solved.ac/{https://github.com/sojeong0302})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=https://github.com/sojeong0302)](https://solved.ac/https://github.com/sojeong0302)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
