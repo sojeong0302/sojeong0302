@@ -28,13 +28,19 @@
 
 </br>
 
+<div direction="row">
 ✨Algorithm✨
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302)
 
+</div>
+
+<div direction="row">
 ✨Git✨ 
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 </div>
 
