@@ -29,7 +29,7 @@
 </br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeong0302)](https://solved.ac/sojeong0302)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
