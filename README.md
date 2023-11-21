@@ -1,7 +1,6 @@
 ### 안녕하세요 🙂
 ### 프론트엔드 공부중 입니다.
 </br>
-</br>
 ### 공부 기록 📝
 </br>
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
