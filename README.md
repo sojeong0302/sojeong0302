@@ -8,7 +8,7 @@
 
 <div direction="row">
   
-## Recode📝
+✨Recode✨
 
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
 
@@ -16,7 +16,7 @@
 
 <div direction="row">
 
-## ✨Front-end Stack✨
+✨Front-end Stack✨
  
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -28,9 +28,12 @@
 
 </br>
 
+✨Algorithm✨
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302)
 
+✨Git✨ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
