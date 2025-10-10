@@ -24,13 +24,8 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
 
-### Prize
-LSTM을 활용한 수력 에너지 발전량 예측 시스템 설계 2023: 우수 논문상
-</br>
-SW중심대학 호남권 LLM 해커톤 경진대회 2025: 최우수상
-
 ### Project
-<a href="https://github.com/BongBong-E-Bong/BBEB">[협업]BBEB</a> (2023/08 ~ 2024/05)
+<a href="https://github.com/BongBong-E-Bong/BBEB">[협업]BBEB</a> (2023/08 ~ 2023/10)
 </br>
 <a href="https://github.com/sojeong0302/miracle_consultation_center">[개인]기적의 상담소</a> (2024/01 ~)
 </br>
@@ -47,6 +42,11 @@ SW중심대학 호남권 LLM 해커톤 경진대회 2025: 최우수상
 <a href="https://github.com/sojeong0302/nengteol-ai-ocr">[협업]넹털</a> (2025/08)
 </br>
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
+
+### Prize
+LSTM을 활용한 수력 에너지 발전량 예측 시스템 설계 2023: 우수 논문상
+</br>
+SW중심대학 호남권 LLM 해커톤 경진대회 2025: 최우수상
 
 ### Recode
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
