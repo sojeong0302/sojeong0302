@@ -44,9 +44,9 @@
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
 
 ### Prize
-LSTM을 활용한 수력 에너지 발전량 예측 시스템 설계 2023: 우수 논문상
+2023 한국전자통신학회: 우수 논문상
 </br>
-SW중심대학 호남권 LLM 해커톤 경진대회 2025: 최우수상
+2025 SW중심대학 호남권 LLM 해커톤 경진대회: 최우수상
 
 ### Recode
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
