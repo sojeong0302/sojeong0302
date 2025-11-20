@@ -33,7 +33,7 @@
 </br>
 <a href="https://github.com/sojeong0302/impoliteChatbot">[개인]ImpoliteChatbot</a> (2024/06 ~ 2024/08)
 </br>
-<a href="https://github.com/orgs/AI-Security-Guard/repositories">[협업]AI방범대</a> (2025/04 ~ 2026/11)
+<a href="https://github.com/orgs/AI-Security-Guard/repositories">[협업]AI방범대</a> (2025/04 ~ 2025/11)
 </br>
 <a href="https://github.com/phthalos/gamemori">[협업]게임모리</a> (2025/05)
 </br>
