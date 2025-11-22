@@ -47,6 +47,8 @@
 2023 한국전자통신학회: 우수 논문상
 </br>
 2025 SW중심대학 호남권 LLM 해커톤 경진대회: 최우수상
+</br>
+2025 융합 아이디어 캠프: 최우수상
 
 ### Recode
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
