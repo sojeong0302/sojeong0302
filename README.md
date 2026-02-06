@@ -59,12 +59,19 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl" height="180px"/>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl&cache_seconds=1800"
+        height="180px"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl" height="180px"/>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl&cache_seconds=1800"
+        height="180px"
+      />
     </td>
   </tr>
 </table>
+
 
 </div>
