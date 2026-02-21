@@ -55,6 +55,9 @@
 ### Recode
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
 
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uyio0302)](https://solved.ac/uyio0302/)
+
 ### Git 
 <table align="center">
   <tr>
