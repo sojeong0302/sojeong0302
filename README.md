@@ -46,9 +46,9 @@
 ### Project (Sprint)
 <a href="https://github.com/sojeong0302/12-sprint-mission-fe/tree/basic-%EB%B0%95%EC%86%8C%EC%A0%95">[개인]판다마켓</a> (2026/02 ~)
 </br>
-<a href="https://github.com/sojeong0302/sprinter-intro-project">[협업]자기소개</a> (2024/02)
+<a href="https://github.com/sojeong0302/sprinter-intro-project">[협업]자기소개</a> (2026/02)
 </br>
-<a href="https://github.com/yoonleejun/aespa_miniproject/tree/dev">[협업]에스파 팬 사이트</a> (2024/02)
+<a href="https://github.com/yoonleejun/aespa_miniproject/tree/dev">[협업]에스파 팬 사이트</a> (2026/02)
 
 ### Prize
 2023 한국전자통신학회: 우수 논문상
