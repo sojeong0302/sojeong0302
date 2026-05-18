@@ -12,11 +12,18 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/mui-007FFF?style=flat-square&logo=mui&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white">
   
 ### Backend Stack
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/express-%23000000.svg?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+
 
 ### Distribution
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white">
