@@ -46,7 +46,7 @@
 </br>
 <a href="https://github.com/sojeong0302/truck-mall">[개인]새마을 트럭</a> (2025/07 ~ 2025/09)
 </br>
-<a href="https://github.com/sojeong0302/nengteol-ai-ocr">[협업]넹털</a> (2025/08)
+<a href="https://github.com/ilseeu01/nengteol-ai-ocr">[협업]넹털</a> (2025/08)
 </br>
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
 
