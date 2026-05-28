@@ -1,35 +1,17 @@
 <div align="center">
   
 # Welcome my github!
-  
-</br>
 
-### Frontend Stack
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-</br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/mui-007FFF?style=flat-square&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white">
-  
-### Backend Stack
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/express-%23000000.svg?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+<br />
+
+### Portfolio
+<a href="https://www.sojeong.me/">
+  <img src="https://img.shields.io/badge/Portfolio-sojeong.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br />
 
 
-### Deployment
-<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7">
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
 
 ### Project
 <a href="https://github.com/BongBong-E-Bong/BBEB">[협업]BBEB</a> (2023/08 ~ 2023/10)
@@ -57,7 +39,7 @@
 </br>
 <a href="https://github.com/yoonleejun/aespa_miniproject/tree/dev">[협업]에스파 팬 사이트</a> (2026/02)
 
-### Prize
+### Prize🏆
 2023 한국전자통신학회: 우수 논문상
 </br>
 2025 SW중심대학 호남권 LLM 해커톤 경진대회: 최우수상
