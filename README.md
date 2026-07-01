@@ -41,15 +41,6 @@
 </br>
 <a href="https://github.com/yoonleejun/aespa_miniproject/tree/dev">[협업]에스파 팬 사이트</a> (2026/02)
 
-### Award🏆
-2023 한국전자통신학회: 우수 논문상
-</br>
-2025 SW중심대학 호남권 LLM 해커톤 경진대회: 최우수상
-</br>
-2025 융합 아이디어 캠프: 최우수상
-</br>
-2025 이매지니어 프로젝트: 장려상
-
 ### Git 
 <table align="center">
   <tr>
