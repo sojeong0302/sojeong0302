@@ -14,7 +14,6 @@
 ### Recode
 <a href="https://velog.io/@sojeong0302"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sojeong0302"/></a>
 
-
 ### Project
 <a href="https://github.com/BongBong-E-Bong/BBEB">[협업]BBEB</a> (2023/08 ~ 2023/10)
 </br>
@@ -33,27 +32,35 @@
 <a href="https://github.com/ilseeu01/nengteol-ai-ocr">[협업]넹털</a> (2025/08)
 </br>
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
+</br>
+<a href="https://github.com/juengseulki/Forest-of-Learning-Frontend">[협업]공부의 숲(FE)</a> (2026/04 ~ 2026/04)
+</br>
+<a href="https://github.com/juengseulki/Forest-of-Learning-Backend">[협업]공부의 숲(BE)</a> (2026/04 ~ 2026/04)
+</br>
+<a href="https://github.com/juengseulki/favorite-photo-frontend">[협업]최애의 포토(FE)</a> (2026/06 ~ 2026/06)
+</br>
+<a href="https://github.com/juengseulki/favorite-photo-backend">[협업]최애의 포토(BE)</a> (2026/06 ~ 2026/06)
+</br>
+<a href="https://github.com/12-sprint-part4-project/12-moving-team3-FE">[협업]무빙(FE)</a> (2026/07 ~ 2026/08)
+</br>
+<a href="https://github.com/12-sprint-part4-project/12-moving-team3-BE">[협업]무빙(BE)</a> (2026/07 ~ 2026/08)
 
-### Project (Sprint)
-<a href="https://github.com/sojeong0302/12-sprint-mission-fe/tree/basic-%EB%B0%95%EC%86%8C%EC%A0%95">[개인]판다마켓</a> (2026/02 ~)
-</br>
-<a href="https://github.com/sojeong0302/sprinter-intro-project">[협업]자기소개</a> (2026/02)
-</br>
-<a href="https://github.com/yoonleejun/aespa_miniproject/tree/dev">[협업]에스파 팬 사이트</a> (2026/02)
 
 ### Git 
 <table align="center">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl"
         height="180px"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl"
         height="180px"
+        alt="Top Languages"
       />
     </td>
   </tr>
