@@ -12,21 +12,7 @@
 <br />
 
 ### Project
-<a href="https://github.com/BongBong-E-Bong/BBEB">[협업]BBEB</a> (2023/08 ~ 2023/10)
-</br>
-<a href="https://github.com/sojeong0302/miracle_consultation_center">[개인]기적의 상담소</a> (2024/01 ~)
-</br>
-<a href="https://github.com/Cafegory">[협업]카페고리</a> (2024/02 ~ 2024/05)
-</br>
-<a href="https://github.com/sojeong0302/impoliteChatbot">[개인]ImpoliteChatbot</a> (2024/06 ~ 2024/08)
-</br>
 <a href="https://github.com/orgs/AI-Security-Guard/repositories">[협업]AI방범대</a> (2025/04 ~ 2025/11)
-</br>
-<a href="https://github.com/phthalos/gamemori">[협업]게임모리</a> (2025/05)
-</br>
-<a href="https://github.com/sojeong0302/truck-mall">[개인]새마을 트럭</a> (2025/07 ~ 2025/09)
-</br>
-<a href="https://github.com/ilseeu01/nengteol-ai-ocr">[협업]넹털</a> (2025/08)
 </br>
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
 </br>
