@@ -12,8 +12,6 @@
 <br />
 
 ### Project
-<a href="https://github.com/orgs/AI-Security-Guard/repositories">[협업]AI방범대</a> (2025/04 ~ 2025/11)
-</br>
 <a href="https://github.com/Nico-NaeCoding/nutriBot">[협업]NutriBot</a> (2025/09 ~ 2025/10)
 </br>
 <a href="https://github.com/juengseulki/Forest-of-Learning-Frontend">[협업]공부의 숲(FE)</a> (2026/04)
