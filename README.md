@@ -28,24 +28,24 @@
 
 
 ### Git 
+
 <table align="center">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl"
+        src="https://github-stats-extended.vercel.app/api?username=sojeong0302&show_icons=true&theme=nightowl"
         height="180px"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=sojeong0302&layout=compact&theme=nightowl"
         height="180px"
         alt="Top Languages"
       />
     </td>
   </tr>
 </table>
-
 
 </div>
